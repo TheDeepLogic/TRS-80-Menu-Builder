@@ -1,3 +1,5 @@
+![TRS-80 Menu Builder](images/trs_80_menu_banner.jpg)
+
 # TRS-80 Menu Builder
 
 A Python script that generates a visual menu system in BASIC for TRS-80 Model III/4 computers running LDOS, MultiDOS, or LS-DOS. This tool addresses the limited availability of menu applications for TRS-80 systems by creating a fast, responsive navigation interface for your disk programs.
@@ -14,7 +16,7 @@ A Python script that generates a visual menu system in BASIC for TRS-80 Model II
 
 The TRS-80 Menu Builder reads a directory listing from your TRS-80 disk image and generates a `MENU.BAS` file that displays all your programs in a multi-page, cursor-navigable menu. The resulting menu is optimized for minimal disk access and maximum responsiveness.
 
-![TRS-80 Menu System](media/trs_80_menu.jpg)
+![TRS-80 Menu System](images/trs_80_menu.jpg)
 
 **Note:** This is a highly customized tool designed for a specific workflow. It's being shared publicly in case others find it useful for building their own menu systems for TRS-80 computers.
 
